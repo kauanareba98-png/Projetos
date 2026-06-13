@@ -1,0 +1,20 @@
+	Churrasco do Matex
+ | Horario: 23:00
+ | Valor: R$ 9999,00
+ | Nota: 10
+-------------------------
+	Festa da Samira
+ | Horario: 17:00
+ | Valor: R$ 16,00
+ | Nota: 9
+------------------------
+	Cachorros dan‡ando
+ | Horario: 19:37
+ | Valor: R$ 6666,00
+ | Nota: 6
+------------------------
+	gym acaqdemia
+ | Horario: 06:00
+ | Valor: R$ 0,00
+ | Nota: 10
+------------------------
